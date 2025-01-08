@@ -1,3 +1,4 @@
 <?php
-    echo "register";
+    $num = 5;
+    echo $num;
 ?>
